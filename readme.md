@@ -24,7 +24,7 @@
 
 [Git-репозиторий проекта](https://github.com/MarkinNikita/aboba)
 
-Landing Page проекта - [TBD]
+Landing Page проекта - (https://aboba-phi.vercel.app/)
 
 ## Лабораторная 3
 
