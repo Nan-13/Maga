@@ -35,3 +35,6 @@ Landing Page проекта - (https://aboba-phi.vercel.app/)
 [Отчет](https://github.com/Nan-13/Maga/blob/main/setka.pdf)
 
 ## Экзаменационный билет 5: [Билет](https://github.com/stankin/inet-2022/wiki/exam05)
+
+![image](https://user-images.githubusercontent.com/61906239/208914061-c3081b14-99e7-4e29-81bf-3eee01aaa015.png)
+
