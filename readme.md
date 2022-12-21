@@ -32,6 +32,6 @@ Landing Page проекта - [TBD]
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
-[Отчет](https://github.com/Nan-13/Maga/blob/main/setka.docx)
+[Отчет](https://github.com/Nan-13/Maga/blob/main/setka.pdf)
 
 ## Экзаменационный билет 5: [Билет](https://github.com/stankin/inet-2022/wiki/exam05)
